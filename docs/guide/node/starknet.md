@@ -10,7 +10,7 @@ For a limited time, Reddio offers a high-speed connection to the StarkNet Node f
 
 To gain entry to Reddio's Node, the first step is to create your very own Reddio account. It's a straightforward process—just visit our [dashboard](https://dashboard.reddio.com/)  to sign up.
 
-As an added bonus, for a limited time, you can enjoy unrestricted access to Reddio's Node entirely free of charge. And if you register your account before January 31, 2024, we have a special gift in store for you.
+As an added bonus, for a limited time, you can enjoy unrestricted access to Reddio's Node entirely free of charge. 
 
 ## Connecting to Reddio's Dedicated Starknet Node
 
